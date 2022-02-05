@@ -6,9 +6,9 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Gusta-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Gusta-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/html-original.svg">
-<img align="center" alt="Gusta-CSS" height="30" width="40" src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/css-original.svg">
-<img align="center" alt="Gusta-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/js-original.svg">
+<img align="center" alt="Gusta-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/html5-original.svg">
+<img align="center" alt="Gusta-CSS" height="30" width="40" src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/css3-original.svg">
+<img align="center" alt="Gusta-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/javascript-original.svg">
 <img align="center" alt="Gusta-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/nodejs-original.svg">
 
 
