@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou Gustavo Araújo
+## Olá! 👋 Eu sou Gustavo Araújo
 
 ![Gustavo Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=yFlipz&show_icons=true&theme=tokyonight)
 
@@ -10,8 +10,6 @@
 <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Gusta-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Gusta-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-
 
 ## Linguagens que eu uso no meu dia a dia
 
