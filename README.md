@@ -11,7 +11,7 @@
 <img align="center" alt="Gusta-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Gusta-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 
-## Linguagens que eu uso no meu dia a dia
+## Linguagens que eu tenho experiência:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
