@@ -1,8 +1,8 @@
 ## Olá! 👋 Eu sou Gustavo Araújo
 
 ## Informações pessoais
-### ・🇧🇷 | Nome: Gustavo Araújo de Sousa
-### ・📚 |Estudante de Python, HTML, CSS e JavaScript
+### ・ 🇧🇷 | Nome: Gustavo Araújo de Sousa
+### ・ 📚 | Estudante de Python, HTML, CSS e JavaScript
 ### ・ 📌 | Apelidos: Gusta, Gustovi, Flipz e Anão.
 
 ## Minhas estátisticas:
