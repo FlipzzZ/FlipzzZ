@@ -1,5 +1,12 @@
 ## Olá! 👋 Eu sou Gustavo Araújo
 
+## Informações pessoais
+### ・🇧🇷 | Nome: Gustavo Araújo de Sousa
+### ・📚 |Estudante de Python, HTML, CSS e JavaScript
+### ・ 📌 | Apelidos: Gusta, Gustovi, Flipz e Anão.
+
+## Minhas estátisticas:
+
 ![Gustavo Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=yFlipz&show_icons=true&theme=tokyonight)
 
 [![Most Uses Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yFlipz)](https://github.com/yFlipz/github-readme-stats=true&theme=tokyonight)
