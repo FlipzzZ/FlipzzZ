@@ -1,8 +1,8 @@
 ## Olá! 👋 Eu sou Gustavo Araújo
 
 ## Informações pessoais
-### ・ 🇧🇷 | Nome: Gustavo Araújo de Sousa
-### ・ 📚 | Estudante de Python, HTML, CSS e JavaScript
+### ・ 🇧🇷 | Nome: Gustavo Araújo de Sousa.
+### ・ 📚 | Estudante de Python, HTML, CSS e JavaScript.
 ### ・ 📌 | Apelidos: Gusta, Gustovi, Flipz e Anão.
 
 ## Minhas estátisticas:
@@ -25,6 +25,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-![snake gif](https://github.com/Gusta-py/Gusta-py/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yFlipz/yFlipz/raw/output/github-contribution-grid-snake.svg)
 <div><br/>
 Apaixonado por programação e tecnologia.
