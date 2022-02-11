@@ -9,7 +9,7 @@
 
 ![Gustavo Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusta-py&show_icons=true&theme=tokyonight)
 
-[![Most Uses Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yFlipz)](https://github.com/Gusta-py/github-readme-stats=true&theme=tokyonight)
+[![Most Uses Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta-py)](https://github.com/Gusta-py/github-readme-stats=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Gusta-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
