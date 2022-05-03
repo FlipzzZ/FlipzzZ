@@ -3,7 +3,7 @@
 ## Informações pessoais
 ### ・ 🇧🇷 | Nome: Gustavo Araújo de Sousa.
 ### ・ 📚 | Estudante de Python, HTML, CSS e JavaScript.
-### ・ 📌 | Apelidos: Gusta, Gustovi, Flipz e Anão.
+### ・ 📌 | Apelidos: Gustavin, Gusta, Gustovi, Anão.
 
 ## Minhas estátisticas:
 
