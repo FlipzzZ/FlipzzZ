@@ -12,8 +12,6 @@
 <h4 align="center">Meu nome é Gustavo Araújo e sou completamente apaixonado por tecnologia, astronomia e biologia. Sou do Ceará, onde nasci e moro até hoje nesse estado maravilhoso! (e quente)</h4>
 <h4 align="center">Gosto bastante de explorar e conhecer lugares e pessoas novas. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio no Canadá.</h4>
 
-<br></br>
-
 <div align="center"> <h2 > Minhas estatísticas </h2>
 
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gusta-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,6 +25,5 @@
   <img src="https://img.shields.io/badge/GitHub-14354C?style=for-the-badge&logo=github&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-
 
 </div>
