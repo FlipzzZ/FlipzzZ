@@ -10,7 +10,7 @@
 
 <h2 align="center">🌎 Sobre mim</h2>
 <h4 align="center">Meu nome é Gustavo Araújo e sou completamente apaixonado por tecnologia, astronomia e biologia. Sou do Ceará, onde nasci e moro até hoje nesse estado maravilhoso! (e quente)</h4>
-<h4 align="center">Gosto bastante de explorar e conhecer lugares e pessoas novas. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio no **Canadá**.</h4>
+<h4 align="center">Gosto bastante de explorar e conhecer lugares e pessoas novas. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio no Canadá.</h4>
 
 <div align="center"> <h2 > Minhas estatísticas </h2>
 
