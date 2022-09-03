@@ -1,6 +1,6 @@
 <h2 align="center"> Boas vindas ao meu perfil! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif", width=25px> </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusta-py&color=blue" alt="Visitantes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusta-py&color=grey" alt="Visitantes" /> </p>
 
 - 🔥 Programador Júnior.
 
@@ -10,7 +10,7 @@
 
 <h2 align="center">🌎 Sobre mim</h2>
 <h4 align="center">Meu nome é Gustavo Araújo e sou completamente apaixonado por tecnologia, astronomia e biologia. Sou do Ceará, onde nasci e moro até hoje nesse estado maravilhoso! (e quente)</h4>
-<h4 align="center">Gosto bastante de explorar e conhecer lugares e pessoas novas. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio no Canadá.</h4>
+<h4 align="center">Gosto bastante de explorar e conhecer lugares e pessoas novas. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio fora do Brasil.</h4>
 
 <div align="center"> <h2 > Minhas estatísticas </h2>
 
