@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusta-py&color=grey" alt="Visitantes" /> </p>
 
-- 🔥 Programador Júnior.
+- 🔥 Estudante de Python.
 
 - 🔭 Atualmente estou estudando **python** e bastante sobre **inglês**!
 
