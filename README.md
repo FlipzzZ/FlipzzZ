@@ -4,13 +4,13 @@
 
 - 🔥 Estudante de Python.
 
-- 🔭 Atualmente estou estudando **python** e bastante sobre **inglês**!
+- 🔭 Atualmente estudando **python** e bastante sobre investimentos e **inglês**!
 
 - ⚡ Fato curioso(ou não): Eu desenvolvo BOTs para o aplicativo **Discord**!
 
 <h2 align="center">🌎 Sobre mim</h2>
-<h4 align="center">Meu nome é Gustavo Araújo e sou completamente apaixonado por tecnologia, astronomia e biologia. Sou do Ceará, onde nasci e moro até hoje nesse estado maravilhoso! (e quente)</h4>
-<h4 align="center">Gosto bastante de explorar e conhecer lugares e pessoas novas. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio fora do Brasil.</h4>
+<h4 align="center">Meu nome é Gustavo Sousa e sou bastante apaixonado por tecnologia e principalmente jogos online. Sou de Fortaleza-CE, onde nasci e moro até hoje nesse estado maravilhoso! (e quente)</h4>
+<h4 align="center">Gosto bastante de explorar e novos lugares. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio fora do Brasil.</h4>
 
 <div align="center"> <h2 > Minhas estatísticas </h2>
 
