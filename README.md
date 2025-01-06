@@ -8,7 +8,7 @@
 - Contato: gustavosousa3650@gmail.com
 
 <h2 align="center">📖 Um pouco sobre mim</h2>
-<h4 align="center">Meu nome é Gustavo Araújo de Sousa, tenho 16 anos, mexo com arquivos batch e um pouco de JavaScript, mas como foco principal em Python</h4>
+<h4 align="center">Meu nome é Gustavo Araújo de Sousa, tenho 16 anos, mexo com arquivos batch e um pouco de JavaScript, mas Python como foco principal </h4>
 <h4 align="center">Cada dia se aprofundando mais no mundo de investimentos e da TI</h4>
 
 <div align="center"> <h2 >📋 Minhas estatísticas </h2>
