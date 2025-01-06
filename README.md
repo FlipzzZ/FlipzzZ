@@ -1,24 +1,20 @@
-<h2 align="center"> Boas vindas ao meu perfil! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif", width=25px> </h2>
+<h2 align="center"> Boas vindas ao perfil! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif", width=25px> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusta-py&color=grey" alt="Visitantes" /> </p>
 
-- 🔥 Estudante de Python.
+- Explorando Python e o mundo de investimentos
 
-- 🔭 Atualmente estudando **python** e bastante sobre investimentos e **inglês**!
+- Procurando ser melhor a cada dia
 
-- ⚡ Fato curioso(ou não): Eu desenvolvo BOTs para o aplicativo **Discord**!
-
-<h2 align="center">🌎 Sobre mim</h2>
-<h4 align="center">Meu nome é Gustavo Sousa e sou bastante apaixonado por tecnologia e principalmente jogos online. Sou de Fortaleza-CE, onde nasci e moro até hoje nesse estado maravilhoso! (e quente)</h4>
-<h4 align="center">Gosto bastante de explorar e novos lugares. Atualmente estou estudando e focando no inglês, pois pretendo fazer intercâmbio fora do Brasil.</h4>
+<h2 align="center">Um pouco sobre mim</h2>
+<h4 align="center">Meu nome é Gustavo Araújo de Sousa, tenho 16 anos, mexo com arquivos batch e um pouco de JavaScript, mas como foco principal em Python</h4>
+<h4 align="center">Cada dia se aprofundando mais no mundo de investimentos e da TI</h4>
 
 <div align="center"> <h2 > Minhas estatísticas </h2>
 
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gusta-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta-py&layout=compact&langs_count=10&theme=tokyonight"/>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Gusta-py&theme=onedark)](https://github.com/Gusta-py/github-profile-trophy)
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
