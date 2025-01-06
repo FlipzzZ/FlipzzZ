@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusta-py&color=grey" alt="Visitantes" /> </p>
 
 - Explorando Python e o mundo de investimentos
-
+- Atualmente mexendo mais com otimizações para computadores, mas tenho experiência nível médio em Python e bem pouco em JavaScript
 - Procurando ser melhor a cada dia
+- Contato: gustavosousa3650@gmail.com
 
 <h2 align="center">📖 Um pouco sobre mim</h2>
 <h4 align="center">Meu nome é Gustavo Araújo de Sousa, tenho 16 anos, mexo com arquivos batch e um pouco de JavaScript, mas como foco principal em Python</h4>
