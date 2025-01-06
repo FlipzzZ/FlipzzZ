@@ -19,8 +19,6 @@
 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/GitHub-14354C?style=for-the-badge&logo=github&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 
 </div>
